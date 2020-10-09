@@ -105,6 +105,26 @@ const configs = {
     'Editors (VSCode, Sublime, Atom).',
     'Editores (VSCode, Sublime, Atom).'
   ],
+  formation: [
+    'Education',
+    'Educação'
+  ],
+  roleName: [
+    'Bachelor of Information Systems, ',
+    'Bacharelado em Sistemas de Informação, '
+  ],
+  graduatedDate: [
+    'Expected completion 2022 · Majoring in Bachelor of Information Systems. ',
+    'Conclusão prevista para 2022 · Graduação em Bacharelado em Sistemas de Informação.'
+  ],
+  skillsDescritption: [
+    'Expert in analyze, design, implement and update web systems.',
+    'Especialista em análise, design, implementação e atualização de sistemas web.'
+  ],
+  instituteName: [
+    'Federal Institute of Education, Science and Technology of Ceará.',
+    'Instituto Federal de Educação, Ciência e Tecnologia do Ceará'
+  ],
   descriptionOpenSource: [
     'With experience in open source projects and privates, I already contributes to community and private companies projects.',
     'Com experiência em projetos open source e privados, eu já contribui para projetos da comunide e de empresas privadas.'

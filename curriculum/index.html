@@ -87,7 +87,6 @@
             <div class="description" itemprop="description">
               <ul>
                 <li>HTML (incl. HTML5 semantics).</li>
-                <li>PUG.</li>
                 <li>CSS (incl. Flexbox).</li>
                 <li>LESS.</li>
                 <li>SASS.</li>
@@ -95,7 +94,6 @@
                 <li>Angular.</li>
                 <li>React.</li>
                 <li>Ionic.</li>
-                <li>Plugins ElasticSearch/Kibana.</li>
               </ul>
             </div>
           </li>
@@ -118,7 +116,6 @@
                 <li>Linux (Ubuntu, Debian, CentOS).</li>
                 <li data-binding="talentDescribeTwo"></li>
                 <li data-binding="talentDescribeThree"></li>
-                <li>Containers (Docker).</li>
               </ul>
             </div>
           </li>
@@ -137,29 +134,24 @@
         </ul>
       </section>
       <section>
-        <h2 data-binding="projects"></h2>
-        <div class="description" itemprop="description" data-binding="descriptionOpenSource"></div>
+        <h2 data-binding="formation"></h2>
         <ul>
-          <li>
+          <li itemprop="memberOf" itemscope itemtype="http://schema.org/OrganizationRole">
             <h3>
-              <span>
+              <a itemprop="url" href="https://ifce.edu.br/crato/campus_crato/cursos/superiores/bacharelados/sistemas">
+                <span class="roleName" itemprop="roleName" data-binding="roleName"></span>
+              </a>
+              <span itemprop="memberOf" itemscope itemtype="http://schema.org/EducationalOrganization">
                 <span itemprop="name">
-                  <a itemprop="url" href="https://github.com/JoaoPedro61/yue-ui">
-                    Yue-Ui
-                    <span style="margin-left: 5px;">
-                      (<span data-binding="inDevelop"></span>)
-                    </span>
+                  <a itemprop="url" href="https://ifce.edu.br">
+                    <span data-binding="instituteName"></span>
                   </a>
                 </span>
               </span>
             </h3>
+            <div class="dates" data-binding="graduatedDate"></div>
             <div class="description" itemprop="description">
-              <div data-binding="descriptionOpenSourceTwo"></div>
-              <ul>
-                <li data-binding="descriptionOpenSourceTwoRef1"></li>
-                <li data-binding="descriptionOpenSourceTwoRef2"></li>
-                <li data-binding="descriptionOpenSourceTwoRef3"></li>
-              </ul>
+              <!-- <div data-binding="skillsDescritption"></div> -->
             </div>
           </li>
         </ul>
