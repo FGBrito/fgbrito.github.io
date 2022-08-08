@@ -6,8 +6,8 @@ const configs = {
     'BR'
   ],
   webDevelop: [
-    'Web develop',
-    'Desenvolvedor Web',
+    'Web develop - ',
+    'Desenvolvedor Web - ',
   ],
   webPlatform: [
     'Web Platform',
@@ -41,9 +41,9 @@ const configs = {
     'June 2015',
     'Junho de 2015'
   ],
-  endDateJune: [
-    'present',
-    'até o momento'
+  endDateApril: [
+    'April 2022',
+    'até Abril de 2022'
   ],
   descriptionBusinessTwo: [
     'Brisanet is the 9th largest internet provider in Brazil.',
@@ -58,6 +58,30 @@ const configs = {
     'Trabalho como desenvolvedor Javascript e com as todas tecnologias da web.'
   ],
   descriptionBusinessTwoRef3: [
+    'Expert in version control, code review and CI.',
+    'Especialista em controle de versão, revisão de código e CI.'
+  ],
+  startDateMay: [
+    'May 2022',
+    'Maio de 2022'
+  ],
+  endDateMay: [
+    'present',
+    'até o momento'
+  ],
+  descriptionBusinessThree: [
+    'Framework Digital through a strategic and continuous vision in digital transformation, we operate in diagnosing problems and generating business opportunities with the development and support of digital solutions in medium and long-term national and international partnerships.',
+    'A Framework Digital com uma visão estratégica do mercado tech, mobilizamos squads de TI que atuam desde o diagnóstico de problemas até a geração de oportunidades de negócio. Dessa forma, desenvolvemos e sustentamos soluções digitais em parcerias nacionais e internacionais.'
+  ],
+  descriptionBusinessThreeRef1: [
+    'Works with a highly trained team to deliver incredible products.',
+    'Trabalho com uma equipe altamente treinada para entregar produtos incríveis.'
+  ],
+  descriptionBusinessThreeRef2: [
+    'Serves as a developer for Javascript and all web technologies.',
+    'Trabalho como desenvolvedor Javascript e com as todas tecnologias da web.'
+  ],
+  descriptionBusinessThreeRef3: [
     'Expert in version control, code review and CI.',
     'Especialista em controle de versão, revisão de código e CI.'
   ],
