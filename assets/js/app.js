@@ -55,7 +55,7 @@ const configs = {
   ],
   descriptionBusinessTwoRef2: [
     'Serves as a developer for Javascript and all web technologies.',
-    'Trabalho como desenvolvedor Javascript e com as todas tecnologias da web.'
+    'Trabalho como desenvolvedor Javascript (AngularJS, Angular) e com as todas tecnologias da web.'
   ],
   descriptionBusinessTwoRef3: [
     'Expert in version control, code review and CI.',
@@ -79,7 +79,7 @@ const configs = {
   ],
   descriptionBusinessThreeRef2: [
     'Serves as a developer for Javascript and all web technologies.',
-    'Trabalho como desenvolvedor Javascript e com as todas tecnologias da web.'
+    'Trabalho como desenvolvedor Javascript (Angular) e com as todas tecnologias da web.'
   ],
   descriptionBusinessThreeRef3: [
     'Expert in version control, code review and CI.',
